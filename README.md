@@ -1,7 +1,7 @@
-# fivescanner web app : https://fivescanner.herokuapp.com/
-# FiveScanner is a team responsible to built End to end development of fivescanner web app 
+## fivescanner web app : https://fivescanner.herokuapp.com/
+## FiveScanner is a team responsible to built End to end development of fivescanner web app 
 
-##Inspiration: Mr Ravinder Singh
+## Inspiration: Mr Ravinder Singh
 
 ### Project Idea & Leader : Anand Maurya 
 ### Data Cleaning : Jasleen
