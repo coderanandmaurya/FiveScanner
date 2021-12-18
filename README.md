@@ -16,7 +16,7 @@
   - 6. Improvement
   - 7. Website
   - 8. Deploy
-  - 
+  
 - Technology:
   - Language: python
   - framework: streamlit
