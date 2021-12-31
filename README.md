@@ -1,15 +1,8 @@
 # *#fivescanner web app : https://fivescanner.herokuapp.com/*
-# FiveScanner is a team responsible to built End to end development of fivescanner web app 
 
-## Inspiration: Mr Ravinder Singh
-
-#### Project Idea & Leader : Anand Maurya 
-#### Data Cleaning : Jasleen
-#### Data Text Preprocessing : Muskanpreet
-#### Model Selection : Anand Maurya
-#### Evaluation and Improvement : Akshay Kashyap
-#### Website Design & Deploy: Kamal
-
+## Inspiration: Mr Ravinder Singh 
+## Reference : Nitin Singh https://github.com/campusx-official
+#### Project Submitted by: Anand Maurya 
 - Process:
   - Data cleaning
   - EDA
