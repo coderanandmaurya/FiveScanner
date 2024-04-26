@@ -1,4 +1,4 @@
-# *#fivescanner web app : https://fivescanner.herokuapp.com/*
+# *#fivescanner web app : https://fivescanner-jxeypawx2nieyyrvvfq9n9.streamlit.app/*
 
 ## Inspiration: Mr Ravinder Singh 
 ## Reference : Nitin Singh https://github.com/campusx-official
