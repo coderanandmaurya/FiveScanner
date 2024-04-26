@@ -1,4 +1,7 @@
 streamlit
 nltk
-sklearn
-
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
