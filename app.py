@@ -8,7 +8,7 @@ from nltk.stem.porter import PorterStemmer
 ps = PorterStemmer()
 
 # Debug: Print NLTK data path
-print("NLTK Data Path:", nltk.data.path)
+print("NLTK Data Path:", https://github.com/coderanandmaurya/FiveScanner/blob/main/nltk.txt)
 
 def transform_text(text):
     text = text.lower()
