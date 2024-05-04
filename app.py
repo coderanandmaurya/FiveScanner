@@ -7,6 +7,8 @@ from nltk.stem.porter import PorterStemmer
 
 ps = PorterStemmer()
 
+# Debug: Print NLTK data path
+print("NLTK Data Path:", nltk.data.path)
 
 def transform_text(text):
     text = text.lower()
@@ -40,7 +42,6 @@ st.title("Email/SMS Spam Classifier")
 input_sms = st.text_area("Enter the message")
 
 if st.button('Predict'):
-
     # 1. preprocess
     transformed_sms = transform_text(input_sms)
     # 2. vectorize
