@@ -7,9 +7,6 @@ from nltk.stem.porter import PorterStemmer
 
 ps = PorterStemmer()
 
-# Debug: Print NLTK data path
-print("NLTK Data Path:", nltk.txt)
-
 def transform_text(text):
     text = text.lower()
     text = nltk.word_tokenize(text)
