@@ -5,5 +5,3 @@ numpy
 pandas
 matplotlib
 seaborn
-nltk.corpus
-nltk.stem.porter
